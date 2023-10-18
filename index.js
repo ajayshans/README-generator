@@ -64,18 +64,15 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    try {
-        fs.writeFileSync(fileName, data);
-        console.log(fileName + ' written successfully.');
-    } catch (err) {
-        console.error('Error writing to ' + fileName + ':', err);
-    }
+    fs.writeFileSync(fileName, data);
 }
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
     .then((data => writeToFile('README.md', generateMarkdown(data))))
+    .then(() => console.log('Successfully wrote to README.md'))
+    .catch((err) => console.error(err));
 }
 
 // Function call to initialize app
