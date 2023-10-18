@@ -66,9 +66,9 @@ const questions = [
 function writeToFile(fileName, data) {
     try {
         fs.writeFileSync(fileName, data);
-        console.log('File written successfully.');
+        console.log(fileName + ' written successfully.');
     } catch (err) {
-        console.error('Error writing to the file:', err);
+        console.error('Error writing to ' + fileName + ':', err);
     }
 }
 
