@@ -31,9 +31,9 @@ const questions = [
     },
     {
         type: 'list',
-        name: 'licence',
-        message: 'Please choose a licence for your application from the list below:',
-        choices: ['MIT', 'GPL 3.0','Apache 2.0','ISC','Unlicence'],
+        name: 'license',
+        message: 'Please choose a license for your application from the list below:',
+        choices: ['MIT', 'GPL 3.0','Apache 2.0','ISC','Unlicense'],
         // Sample Choice: MIT
     },
     {
