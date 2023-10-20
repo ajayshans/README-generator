@@ -22,7 +22,7 @@ function renderLicenseBadge(license) {
 // Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-    const licenseLink = license === 'Unlicense' ? '' : '\n* [License](#license)';
+    const licenseLink = license === 'Unlicense' ? '' : '\n- [License](#license)';
     return licenseLink;
 }
 

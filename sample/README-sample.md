@@ -1,12 +1,12 @@
-# README-sample-project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README-sample [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-The purpose of this project is to create a sample README using the README generator.
+Purpose of project is to generate a professional README
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage) 
-* [License](#license)
+- [License](#license)
 - [Contribution](#contribution)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -25,12 +25,12 @@ To use this project, please navigate to the relevant repo in terminal. Enter nod
 This project uses a MIT license
 
 ## Contribution
-No public contributions available for this project
+npm run test
 
 ## Tests
 To execute relevant tests, in terminal please run the CLI command:
 ```
-MIT
+npm run test
 ```
 
 ## Questions
