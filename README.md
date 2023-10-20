@@ -13,7 +13,8 @@ The purpose of this project is to create a professional README Generator that cr
 - Ensure clicking on links in Table of Contents takes user to corresponding section of README
 
 ## Node Application Preview
-![Webpage Screenshot 1](assets/images/weather-application-1.png)
+![Application Screenshot 1](images/readme-application-1.png)
+![Application Screenshot 2](images/readme-application-2.png)
 
 ## Submission Requirements
 [Video Walkthrough](https://ajayshans.github.io/weather-dashboard-app/)

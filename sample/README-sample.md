@@ -1,4 +1,4 @@
-# Sample README Generation [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Sample README Project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 Generate sample README using README generator
@@ -30,10 +30,10 @@ No public contributions available
 ## Tests
 To execute relevant tests, in terminal please run the CLI command:
 ```
-ajayshans
+npm run test
 ```
 
 ## Questions
 Please direct any additional questions to the below contact details:
 - Email: [ajay+test@gmail.com](mailto:ajay+test@gmail.com)
-- GitHub Profile: [ajay+test@gmail.com](https://github.com/ajay+test@gmail.com)
+- GitHub Profile: [ajayshans](https://github.com/ajayshans)
