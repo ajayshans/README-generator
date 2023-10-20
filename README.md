@@ -18,6 +18,6 @@ The purpose of this project is to create a professional README Generator that cr
 ![Application Screenshot 2](images/readme-application-3.png)
 
 ## Submission Requirements
-- [Video Walkthrough](https://ajayshans.github.io/weather-dashboard-app/)
+- [Video Walkthrough](https://drive.google.com/file/d/1y0C-sqCCTear1Ps7oQX80yCBQD1192tB/view)
 - [Sample README](https://github.com/ajayshans/README-generator/blob/main/sample/README-sample.md/)
 - [GitHub Repo](https://github.com/ajayshans/README-generator/)
