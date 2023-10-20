@@ -21,7 +21,7 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'Please provide CLI command that needs to be run to install required dependencies:',
-        // Sample Input: npm install inquirer
+        // Sample Input: npm i -y
     },
     {
         type: 'input',
