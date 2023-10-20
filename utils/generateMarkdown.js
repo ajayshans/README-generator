@@ -69,7 +69,7 @@ ${data.test}
 
 ## Questions
 Please direct any additional questions to the below contact details:
-- Email: [${data.email}](${data.email})
+- Email: [${data.email}](mailto:${data.email})
 - GitHub Profile: [${data.github}](https://github.com/${data.github})
 `;
 }
