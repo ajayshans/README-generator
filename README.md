@@ -1,4 +1,4 @@
-# Professional README Generator
+# Professional README Generator ⚙️
 
 ## Description
 The purpose of this project is to create a professional README Generator that creates a README following a user answering a series of prompts using node JS.
