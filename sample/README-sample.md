@@ -1,4 +1,4 @@
-# README sample generation [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Sample README Generation [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 Generate sample README using README generator
@@ -19,21 +19,21 @@ npm i -y
 ```
 
 ## Usage
-Run ```node index.js``` in terminal and answer prompts. 
+Run ```node index.js``` in integrated terminal and answer prompts 
 
 ## License
 This project uses a MIT license
 
 ## Contribution
-No public contributions for this project
+No public contributions available
 
 ## Tests
 To execute relevant tests, in terminal please run the CLI command:
 ```
-npm run test
+ajayshans
 ```
 
 ## Questions
 Please direct any additional questions to the below contact details:
 - Email: [ajay+test@gmail.com](mailto:ajay+test@gmail.com)
-- GitHub Profile: [ajayshans](https://github.com/ajayshans)
+- GitHub Profile: [ajay+test@gmail.com](https://github.com/ajay+test@gmail.com)
