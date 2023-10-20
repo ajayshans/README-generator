@@ -38,18 +38,39 @@ function generateMarkdown(data) {
   return `# ${data.title} ${renderLicenseBadge(data.license)}
 
   ## Description
+${data.description}
 
   ## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage) ${renderLicenseLink(data.license)}
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
+
 
   ## Installation
+  To install required dependencies, in terminal please run the CLI command:
+\`\`\`
+  ${data.installation}
+\`\`\`
 
   ## Usage
+  ${data.usage} 
+  ${renderLicenseSection(data.license)}
 
   ## Contribution
+  ${data.contribution}
 
   ## Tests
+  To execute relevant tests, in terminal please run the CLI command:
+  \`\`\`
+  ${data.test}
+  \`\`\`
 
   ## Questions
+  Please direct any additional questions to the below contact details:
+  - [${data.email}](${data.email})
+  - GitHub Profile: [${data.github}](https://github.com/${data.github})
 `;
 }
 

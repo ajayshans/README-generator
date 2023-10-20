@@ -45,8 +45,8 @@ const questions = [
     {
         type: 'input',
         name: 'test',
-        message: 'Please provide CLI command that needs to be run to install required dependencies:',
-        // Sample Input: To test, please run npm test
+        message: 'Please provide CLI command that needs to be run to execute relevant tests:',
+        // Sample Input: To test, please run npm run test
     },
     {
         type: 'input',
