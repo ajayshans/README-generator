@@ -15,6 +15,7 @@ The purpose of this project is to create a professional README Generator that cr
 ## Node Application Preview
 ![Application Screenshot 1](images/readme-application-1.png)
 ![Application Screenshot 2](images/readme-application-2.png)
+![Application Screenshot 2](images/readme-application-3.png)
 
 ## Submission Requirements
 - [Video Walkthrough](https://ajayshans.github.io/weather-dashboard-app/)
