@@ -1,9 +1,9 @@
-# README-sample-1 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README-sample-project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Description
+## Description
 The purpose of this project is to create a sample README using the README generator.
 
-  ## Table of Contents
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage) 
 * [License](#license)
@@ -12,28 +12,28 @@ The purpose of this project is to create a sample README using the README genera
 - [Questions](#questions)
 
 
-  ## Installation
-  To install required dependencies, in terminal please run the CLI command:
+## Installation
+To install required dependencies, in terminal please run the CLI command:
 ```
-  npm i -y
+npm i -y
 ```
 
-  ## Usage
-  To use this project, please navigate to the relevant repo in terminal. Enter node index.js and complete the prompts to generate README 
-  
+## Usage
+To use this project, please navigate to the relevant repo in terminal. Enter node index.js and complete the prompts to generate README 
+
 ## License
 This project uses a MIT license
 
-  ## Contribution
-  No public contributions available for this project
+## Contribution
+No public contributions available for this project
 
-  ## Tests
-  To execute relevant tests, in terminal please run the CLI command:
-  ```
-  npm run test
-  ```
+## Tests
+To execute relevant tests, in terminal please run the CLI command:
+```
+MIT
+```
 
-  ## Questions
-  Please direct any additional questions to the below contact details:
-  - [undefined](undefined)
-  - GitHub Profile: [ajayshans](https://github.com/ajayshans)
+## Questions
+Please direct any additional questions to the below contact details:
+- [ajay+test@gmail.com](ajay+test@gmail.com)
+- GitHub Profile: [ajayshans](https://github.com/ajayshans)

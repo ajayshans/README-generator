@@ -56,7 +56,7 @@ const questions = [
     },  
     {
         type: 'input',
-        name: 'linkedin',
+        name: 'email',
         message: 'Enter your email address:',
         // Sample Input: ajay+test@gmail.com
     },              
